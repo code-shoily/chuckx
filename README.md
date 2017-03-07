@@ -1,11 +1,12 @@
 # Chuckx
 
-**TODO: Add description**
+ Get Random Chuck Norris jokes for your entertainment.
+  
+  A nod to Hasin Haydar's [gochuck](https://github.com/hasinhayder/GoChuck/)
 
 ## Installation
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `chuckx` to your list of dependencies in `mix.exs`:
+Add it to your mix project:
 
 ```elixir
 def deps do
